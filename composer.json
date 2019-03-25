@@ -1,7 +1,7 @@
 {
-    "name": "aliyun/uploadvideo",
-    "description": "阿里云SDK服务端上传",
-    "type": "library",
+    "name": "aliyuntes/video",
+    "description": "我的描述'",
+    "type": "MIT",
     "license": "MIT",
     "authors": [
         {
@@ -13,7 +13,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Aliyunsdk\\": "src/"
+            "aliyuntest\\": "src/"
         }
     }
 }
