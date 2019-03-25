@@ -1,0 +1,19 @@
+{
+    "name": "aliyun/uploadvideo",
+    "description": "阿里云SDK服务端上传",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ujiuye12345",
+            "email": "1632282572@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Aliyunsdk\\": "src/"
+        }
+    }
+}
